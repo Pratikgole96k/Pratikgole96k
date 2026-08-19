@@ -41,7 +41,7 @@
 ├──────────────────────┬───────────────────────────────────────────────────────┤
 │ 👤 Candidate         │ Pratik Gole                                           │
 │ 🎓 Academic Degree   │ M.Sc Computer Science (Pursuing) @ K.S.K.W. College   │
-│ 🎓 Undergraduate     │ Bachelor of Computer Science (BCS) @ KGDM College   │
+│ 🎓 Undergraduate     │ Bachelor of Computer Science (BCS) @ KGDM College     │
 │ 💻 Primary Languages │ Python (OOP, Scripting, DSA), C, SQL, JavaScript, PHP │
 │ 🧠 AI/ML Workflows   │ Data Preprocessing, EDA, Regression, KNN, Evaluation  │
 │ 🗄️ Data Architecture │ Relational Database Design, 3NF Normalization, Joins  │
